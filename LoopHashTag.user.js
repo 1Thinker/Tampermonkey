@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Autocomplete and manage #tags in Microsoft Loop, with import/export and search
 // @match        https://loop.cloud.microsoft/*
+// @downloadURL  https://github.com/1Thinker/Tampermonkey/raw/refs/heads/main/LoopHashTag.user.js
+// @updateURL    https://github.com/1Thinker/Tampermonkey/raw/refs/heads/main/LoopHashTag.user.js
 // @run-at       document-idle
 // @grant        GM_getValue
 // @grant        GM_setValue
